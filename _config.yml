@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "MI-IFM"
-  avatar           : ""
+  avatar           : 
   bio              : "The Milken Institute's International Finance & Macroeconomic Research Team"
   location         : "Santa Monica, CA"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           :
+  googlescholar    :
   email            : "bsmith@milkeninstitute.org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : 
   vine             :
   weibo            :
   xing             :
