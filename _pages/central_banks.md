@@ -1,4 +1,9 @@
-
+---
+layout: archive
+title: "BIS Speeches"
+permalink: /central_banks/
+author_profile: true
+---
 This is a test
 
 <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/bmabey/pyLDAvis/files/ldavis.v1.0.0.css">
