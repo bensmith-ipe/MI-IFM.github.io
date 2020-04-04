@@ -7,4 +7,4 @@ author_profile: true
 
 LDA Topic Modelling - Results for Q1 2020
 
-![Q12020](/images/)
+![Q12020](/images/Screen Shot 2020-04-03 at 8.29.14 PM.png)
