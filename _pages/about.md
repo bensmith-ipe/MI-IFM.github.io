@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to MI-IFM's Big Tech Project. This website includes a variety of data visualizations created to illustrate if/how attitudes towards "Big Tech" have changed over time. We investigate attitudes of three key groups: Regulators, News Media, and Technology Firms.
+### Welcome to MI-IFM's Big Tech Project. 
+
+This is a work in progress.
 
 
