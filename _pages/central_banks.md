@@ -17,10 +17,10 @@ author_profile: true
 ### Q4 2019
 ![Q42019](/images/Screen Shot 2020-04-06 at 4.27.38 PM.png)
 
-|  Topic number | Topic words (top-5)  |  Topic top-word | Topic theme  |
-|---|---|---|---|
-|  1 | 0, '0.010*"takaful" + 0.006*"payment_system" + 0.005*"mauritius" + 0.005*"barclays" + 0.005*"norge_bank" |  takaful | Banking  |
-| 2  | 0.006*"climate" + 0.005*"israel" + 0.004*"firm" + 0.004*"reserve" + 0.004*"standard"   |  climate | Policy |
+| Topic Number            | Topic Theme   |   Top-5 Words                                                           |
+| --------         | ------ | ------------------------------------------------------------ |
+| 1    | Banking  | 0.010*"takaful" + 0.006*"payment_system" + 0.005*"mauritius" + 0.005*"barclays" + 0.005*"norge_bank" |
+| 2    | Policy   | 0.006*"climate" + 0.005*"israel" + 0.004*"firm" + 0.004*"reserve" + 0.004*"standard"|
 
 
 ### Q3 2019
