@@ -18,3 +18,5 @@ author_profile: true
 ### Q2 2019
 ![Q22019](/images/Screen Shot 2020-04-06 at 5.18.58 PM.png)
 
+### Q1 2019 
+![Q12019](/images/Screen Shot 2020-04-06 at 6.49.21 PM.png)
