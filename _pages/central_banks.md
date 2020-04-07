@@ -7,6 +7,9 @@ author_profile: true
 
 ### Q1 2020
 ![Q12020](/images/Screen Shot 2020-04-03 at 8.29.14 PM.png)
+|  1 | 0.021'*"community_bank" + 0.012*"third_party" + 0.008*"india" + 0.007*"federal" + 0.006*"federal_reserve"|  community_bank | Banking |
+|---|---|---|---|
+|  2 | 0.019*"canada" + 0.017*"cbdc" + 0.017*"canadian" + 0.014*"bank_canada" + 0.009*"digital_currency"  | canada  | Policy  |
 
 ### Q4 2019
 ![Q42019](/images/Screen Shot 2020-04-06 at 4.27.38 PM.png)
