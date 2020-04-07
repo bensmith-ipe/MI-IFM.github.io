@@ -10,16 +10,13 @@ author_profile: true
 
 | Topic Number            | Topic Theme   |   Top-5 Words                                                           |
 | --------         | ------ | ------------------------------------------------------------ |
-| 1    | 2016   | Description of the item in the list                          |
-| 2    | 2019   | Description of the item in the list                          |
+| 1    | Banking  | 0.021'* "community_bank" + 0.012*"third_party" + 0.008*"india" + 0.007*"federal" + 0.006*"federal_reserve" |
+| 2    | Policy   | 0.019*"canada" + 0.017*"cbdc" + 0.017*"canadian" + 0.014*"bank_canada" + 0.009*"digital_currency"|
 
-|  Topic number | Topic words (top-5)  |  Topic top-word | Topic theme  |
-|---|---|---|---|
-|  1 | 0.021'* "community_bank" + 0.012*"third_party" + 0.008*"india" + 0.007*"federal" + 0.006*"federal_reserve"  |  community_bank | Banking  |
-| 2  | 0.019*"canada" + 0.017*"cbdc" + 0.017*"canadian" + 0.014*"bank_canada" + 0.009*"digital_currency"  |  canada | Policy |
 
 ### Q4 2019
 ![Q42019](/images/Screen Shot 2020-04-06 at 4.27.38 PM.png)
+
 |  Topic number | Topic words (top-5)  |  Topic top-word | Topic theme  |
 |---|---|---|---|
 |  1 | 0, '0.010*"takaful" + 0.006*"payment_system" + 0.005*"mauritius" + 0.005*"barclays" + 0.005*"norge_bank" |  takaful | Banking  |
