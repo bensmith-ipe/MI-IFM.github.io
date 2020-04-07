@@ -7,6 +7,12 @@ author_profile: true
 
 ### Q1 2020
 ![Q12020](/images/Screen Shot 2020-04-03 at 8.29.14 PM.png)
+
+| Topic Number            | Topic Theme   |   Top-5 Words                                                           |
+| --------         | ------ | ------------------------------------------------------------ |
+| 1    | 2016   | Description of the item in the list                          |
+| 2    | 2019   | Description of the item in the list                          |
+
 |  Topic number | Topic words (top-5)  |  Topic top-word | Topic theme  |
 |---|---|---|---|
 |  1 | 0.021'* "community_bank" + 0.012*"third_party" + 0.008*"india" + 0.007*"federal" + 0.006*"federal_reserve"  |  community_bank | Banking  |
