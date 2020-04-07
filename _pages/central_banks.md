@@ -66,6 +66,12 @@ author_profile: true
 ### Q4 2018
 ![Q42018](/images/Screen Shot 2020-04-07 at 8.25.56 AM.png)
 
+| Topic Number            | Topic Theme   |   Top-5 Words                                                           |
+| --------         | ------ | ------------------------------------------------------------ |
+| 1    | Policy  |  0.008*"cost" + 0.008*"electronic" + 0.005*"supervisor" + 0.005*"card" + 0.005*"payment_system"   |
+| 2    | Policy   | 0.006*"monetary_policy" + 0.005*"crypto" + 0.005*"crypto_asset" + 0.005*"central_bank" + 0.004*"community"  |
+
+
 ### Q3 2018 
 ![Q32018](/images/Screen Shot 2020-04-07 at 8.55.26 AM.png)
 
