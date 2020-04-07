@@ -56,11 +56,11 @@ author_profile: true
 | 6 |  Technology  | 0.017*"fintech" + 0.014*"university" + 0.009*"image" + 0.009*"household" + 0.009*"economics" 
 | 7 |  Policy  | 0.012*"france" + 0.012*"digital" + 0.012*"paris" + 0.011*"green" + 0.011*"uncertainty"
 | 8 |  Banking  | 0.015*"intermediation" + 0.011*"france" + 0.010*"bigtechs" + 0.009*"financial_intermediation" + 0.009*"fintech" 
-| 9 | Banking   | 0.000*"payment" + 0.000*"fintechs" + 0.000*"credit" + 0.000*"customer" + 0.000*"fintech" 
-| 10 |   Policy  | 0.000*"economic" + 0.000*"intermediation" + 0.000*"euro" + 0.000*"rate" + 0.000*"monetary"
+| 9 | N/A   | 0.000*"payment" + 0.000*"fintechs" + 0.000*"credit" + 0.000*"customer" + 0.000*"fintech" 
+| 10 |   N/A  | 0.000*"economic" + 0.000*"intermediation" + 0.000*"euro" + 0.000*"rate" + 0.000*"monetary"
 | 11 | Policy   | 0.016*"trade" + 0.013*"rate" + 0.012*"country" + 0.011*"leverage" + 0.010*"tariff" 
-| 12 | Banking | 0.000*"rate" + 0.000*"trade" + 0.000*"country" + 0.000*"leverage" + 0.000*"asia"
-| 13 |  Technology  | 0.000*"fintech" + 0.000*"university" + 0.000*"cornell" + 0.000*"union" + 0.000*"citigroup"
+| 12 | N/A | 0.000*"rate" + 0.000*"trade" + 0.000*"country" + 0.000*"leverage" + 0.000*"asia"
+| 13 |  N/A  | 0.000*"fintech" + 0.000*"university" + 0.000*"cornell" + 0.000*"union" + 0.000*"citigroup"
 
 
 ### Q4 2018
@@ -68,12 +68,19 @@ author_profile: true
 
 | Topic Number            | Topic Theme   |   Top-5 Words                                                           |
 | --------         | ------ | ------------------------------------------------------------ |
-| 1    | Policy  |  0.008*"cost" + 0.008*"electronic" + 0.005*"supervisor" + 0.005*"card" + 0.005*"payment_system"   |
-| 2    | Policy   | 0.006*"monetary_policy" + 0.005*"crypto" + 0.005*"crypto_asset" + 0.005*"central_bank" + 0.004*"community"  |
+| 1    | Technology  |  0.008*"cost" + 0.008*"electronic" + 0.005*"supervisor" + 0.005*"card" + 0.005*"payment_system"   |
+| 2    | Policy   | 0.006*"monetary_policy" + 0.005*"crypto" + 0.005*"crypto_asset" + 0.005*"central_bank" + 0.004*"community" |
 
 
 ### Q3 2018 
 ![Q32018](/images/Screen Shot 2020-04-07 at 8.55.26 AM.png)
+
+| Topic Number            | Topic Theme   |   Top-5 Words                                                           |
+| --------         | ------ | ------------------------------------------------------------ |
+| 1    |  Policy | 0.010*"plan" + 0.009*"dfis" + 0.006*"strategic" + 0.005*"inclusion" + 0.005*"singapore" |
+| 2    |  Banking  |0.004*"forward" + 0.004*"european" + 0.004*"central_bank" + 0.004*"financial_market" + 0.004*"euro" |
+
+
 
 ### Q2 2018
 ![Q22018](/images/Screen Shot 2020-04-07 at 9.49.39 AM.png)
