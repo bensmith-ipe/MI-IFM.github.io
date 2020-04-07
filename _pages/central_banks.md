@@ -36,6 +36,13 @@ author_profile: true
 ### Q2 2019
 ![Q22019](/images/Screen Shot 2020-04-06 at 5.18.58 PM.png)
 
+
+| Topic Number            | Topic Theme   |   Top-5 Words                                                           |
+| --------         | ------ | ------------------------------------------------------------ |
+| 1    |  Technology |  0.006*"data" + 0.005*"cent" + 0.004*"finance" + 0.004*"italy" + 0.004*"cyber"  |
+| 2    |  Policy  | '0.022*"china" + 0.010*"shanghai" + 0.007*"chinese" + 0.006*"trade" + 0.006*"enterprise" |
+
+
 ### Q1 2019 
 ![Q12019](/images/Screen Shot 2020-04-06 at 6.49.21 PM.png)
 
