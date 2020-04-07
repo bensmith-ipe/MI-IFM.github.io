@@ -26,6 +26,13 @@ author_profile: true
 ### Q3 2019
 ![Q32019](/images/Screen Shot 2020-04-06 at 4.58.39 PM.png)
 
+| Topic Number            | Topic Theme   |   Top-5 Words                                                           |
+| --------         | ------ | ------------------------------------------------------------ |
+| 1    |  Policy | '0.013*"singapore" + 0.013*"private" + 0.012*"asia" + 0.010*"company" + 0.010*"investing"  |
+| 2    |  Banking  | '0.016*"cent" + 0.010*"india" + 0.009*"export" + 0.007*"external" + 0.006*"flow" |
+| 3    | Policy  | '0.013*"think" + 0.006*"uncertainty" + 0.005*"euro" + 0.005*"euro_area" + 0.004*"fiscal" 
+
+
 ### Q2 2019
 ![Q22019](/images/Screen Shot 2020-04-06 at 5.18.58 PM.png)
 
