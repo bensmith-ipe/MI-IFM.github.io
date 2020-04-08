@@ -127,3 +127,12 @@ author_profile: true
 | --------         | ------ | ------------------------------------------------------------ |
 | 1    | ![green](/images/green.png) Policy |  0.007*"adviser" + 0.005*"financial_adviser" + 0.004*"percent" + 0.003*"rate" + 0.003*"inflation" |
 | 2    | ![green](/images/green.png) Policy | 0.007*"kong" + 0.007*"hong_kong" + 0.007*"hong" + 0.004*"card" + 0.003*"aggregator"  |
+
+
+### Q3 2017
+![Q32017](/images/Screen Shot 2020-04-08 at 12.55.50 PM.png)
+
+| Topic Number            | Topic Theme   |   Top-5 Words                                                           |
+| --------         | ------ | ------------------------------------------------------------ |
+| 1    | ![green](/images/green.png) Policy |  0.010*"percent" + 0.005*"canada" + 0.004*"export" + 0.004*"labor" + 0.004*"workforce" |
+| 2    | ![green](/images/green.png) Policy | 0.010*"captive" + 0.005*"interest_rate" + 0.005*"globalisation" + 0.004*"asia" + 0.004*"labour"   |
