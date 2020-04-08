@@ -122,3 +122,8 @@ author_profile: true
 
 ### Q4 2017
 ![Q42017](/images/Screen Shot 2020-04-07 at 10.55.15 AM.png)
+
+| Topic Number            | Topic Theme   |   Top-5 Words                                                           |
+| --------         | ------ | ------------------------------------------------------------ |
+| 1    | ![green](/images/green.png) Policy |  0.007*"adviser" + 0.005*"financial_adviser" + 0.004*"percent" + 0.003*"rate" + 0.003*"inflation" |
+| 2    | ![green](/images/green.png) Policy | 0.007*"kong" + 0.007*"hong_kong" + 0.007*"hong" + 0.004*"card" + 0.003*"aggregator"  |
