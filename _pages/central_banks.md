@@ -85,6 +85,22 @@ author_profile: true
 ### Q2 2018
 ![Q22018](/images/Screen Shot 2020-04-07 at 9.49.39 AM.png)
 
+| Topic Number            | Topic Theme   |   Top-5 Words                                                           |
+| --------         | ------ | ------------------------------------------------------------ |
+| 1    | N/A |  0.000*"cent" + 0.000*"australia" + 0.000*"ireland" + 0.000*"inflation" + 0.000*"domestic"|
+| 2    | ![green](/images/green.png) Policy | 0.018*"union" + 0.015*"integration" + 0.010*"single" + 0.009*"financial_integration" + 0.009*"europe"  |
+| 3 | ![blue](/images/blue.png) Banking | 0.037*"agent" + 0.027*"takaful" + 0.019*"customer" + 0.017*"insurance" + 0.008*"life" 
+| 4 | N/A | 0.000*"agent" + 0.000*"albania" + 0.000*"takaful" + 0.000*"bank_albania" + 0.000*"customer"
+| 5 | ![green](/images/green.png) Policy | 0.030*"albania" + 0.027*"bank_albania" + 0.008*"monetary_policy" + 0.007*"albanian" + 0.007*"loan"
+| 6 | ![green](/images/green.png) Policy  | 0.020*"australia" + 0.015*"board" + 0.013*"cent" + 0.011*"inflation" + 0.010*"australian" 
+| 7 |  N/A  | 0.000*"reform" + 0.000*"france" + 0.000*"slide" + 0.000*"labour" + 0.000*"inflation" 
+| 8 | ![red](/images/red.png) Tech  | 0.018*"digital" + 0.017*"innovation" + 0.016*"fintech" + 0.013*"percent" + 0.011*"philippine" 
+| 9 | ![blue](/images/blue.png) Banking | 0.014*"merger" + 0.014*"banking_sector" + 0.012*"consolidation" + 0.008*"german" + 0.007*"acquisition"
+| 10 | ![red](/images/red.png) Tech  | 0.012*"digital" + 0.009*"customer" + 0.009*"fintechs" + 0.008*"digitalisation" + 0.008*"future_banking" 
+| 11 | ![green](/images/green.png) Policy | 0.017*"reform" + 0.014*"france" + 0.013*"slide" + 0.012*"paris" + 0.011*"labour"
+| 12 | ![green](/images/green.png) Policy | 0.024*"ireland" + 0.016*"domestic" + 0.014*"trade" + 0.009*"cent" + 0.008*"export" 
+| 13 | ![green](/images/green.png) Policy  | 0.042*"inflation" + 0.023*"monetary_policy" + 0.019*"target" + 0.013*"price" + 0.013*"norway" 
+
 ### Q1 2018
 ![Q12018](/images/Screen Shot 2020-04-07 at 10.41.40 AM.png)
 
