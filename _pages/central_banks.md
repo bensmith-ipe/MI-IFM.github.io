@@ -139,8 +139,8 @@ author_profile: true
 
 
 ### Q2 2017 
-
 ![Q22017](/images/Screen Shot 2020-04-08 at 1.30.34 PM.png)
+
 | Topic Number            | Topic Theme   |   Top-5 Words                                                           |
 | --------         | ------ | ------------------------------------------------------------ |
 | 1    | ![red](/images/red.png) Tech|  0.016*"microfinance" + 0.008*"malaysia" + 0.008*"micro" + 0.006*"borrower" + 0.005*"opportunity"  |
