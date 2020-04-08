@@ -104,5 +104,21 @@ author_profile: true
 ### Q1 2018
 ![Q12018](/images/Screen Shot 2020-04-07 at 10.41.40 AM.png)
 
+| Topic Number            | Topic Theme   |   Top-5 Words                                                           |
+| --------         | ------ | ------------------------------------------------------------ |
+| 1    | ![blue](/images/blue.png) Banking | 0.018*"money" + 0.010*"bitcoin" + 0.007*"euro" + 0.006*"investor" + 0.006*"settlement" |
+| 2    | ![blue](/images/blue.png) Banking | 0.029*"payment_system" + 0.019*"digital_currency" + 0.009*"federal_reserve" + 0.008*"transfer" + 0.007*"money"  |
+| 3 | N/A | 0.000*"canada" + 0.000*"money" + 0.000*"euro" + 0.000*"bond" + 0.000*"labour"
+| 4 | ![green](/images/green.png) Policy | 0.013*"europe" + 0.010*"euro" + 0.010*"euro_area" + 0.006*"china" + 0.006*"fiscal" 
+| 5 | ![blue](/images/blue.png) Banking | 0.009*"bond" + 0.006*"euro" + 0.006*"yield" + 0.005*"purchase" + 0.005*"greece" 
+| 6 | ![red](/images/red.png) Tech | 0.007*"management" + 0.007*"reform" + 0.006*"learning" + 0.006*"trading" + 0.006*"machine"
+| 7 |  N/A  | 0.000*"money" + 0.000*"bitcoin" + 0.000*"cryptocurrencies" + 0.000*"cryptocurrency" + 0.000*"issued"
+| 8 | ![red](/images/red.png) Tech  | 0.012*"cryptocurrencies" + 0.009*"issued" + 0.008*"cryptocurrency" + 0.008*"philippine" + 0.007*"percent" 
+| 9 | N/A | 0.000*"payment_system" + 0.000*"digital_currency" + 0.000*"transfer" + 0.000*"federal_reserve" + 0.000*"money"
+| 10 | ![green](/images/green.png) Policy | 0.013*"canada" + 0.006*"labour" + 0.006*"income" + 0.005*"question" + 0.005*"force"
+| 11 | ![blue](/images/blue.png) Banking | 0.024*"islamic" + 0.020*"islamic_finance" + 0.009*"federal_reserve" + 0.008*"worker" + 0.007*"young" 
+
+
+
 ### Q4 2017
 ![Q42017](/images/Screen Shot 2020-04-07 at 10.55.15 AM.png)
