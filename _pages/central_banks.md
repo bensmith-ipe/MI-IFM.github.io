@@ -149,4 +149,18 @@ author_profile: true
 | 4 | ![blue](/images/blue.png) Banking| 0.013*"currency" + 0.011*"asian" + 0.006*"asian_bank" + 0.006*"region" + 0.006*"loan" |
 
 
+### Q1 2017
+![Q12017](/images/Screen Shot 2020-04-08 at 3.13.46 PM.png)
+
+| Topic Number            | Topic Theme   |   Top-5 Words                                                           |
+| --------         | ------ | ------------------------------------------------------------ |
+| 1    | ![red](/images/red.png) Tech | 0.015*"fintechs" + 0.007*"supervisor" + 0.007*"digitalisation" + 0.006*"digital" + 0.006*"scenario"|
+| 2    | ![blue](/images/blue.png) Banking | 0.011*"stressed" + 0.011*"plan" + 0.010*"restructuring" + 0.010*"private" + 0.010*"stressed_asset" |
+| 3 | N/A | 0.000*"marketplace" + 0.000*"multiple" + 0.000*"nearly" + 0.000*"mortar" + 0.000*"msme_financing" 
+| 4 | ![green](/images/green.png) Policy | 0.018*"productivity" + 0.010*"firm" + 0.009*"greece" + 0.008*"euro" + 0.008*"euro_area"
+| 5 | ![red](/images/red.png) Tech | 0.011*"firm" + 0.009*"digital" + 0.007*"finance" + 0.007*"financial_service" + 0.006*"central_bank" 
+| 6 | ![green](/images/green.png) Policy | 0.003*"conference" + 0.003*"monetary" + 0.003*"financial_stability" + 0.003*"meeting" + 0.003*"resilience"
+| 7 | ![green](/images/green.png) Policy | 0.048*"think" + 0.017*"people" + 0.017*"thing" + 0.012*"know" + 0.012*"dudley" 
+| 8 | N/A | 0.000*"fintech" + 0.000*"msme" + 0.000*"borrower" + 0.000*"finance" + 0.000*"lending" 
+| 9 | ![red](/images/red.png) Tech | 0.028*"fintech" + 0.014*"msme" + 0.009*"borrower" + 0.008*"data" + 0.008*"payment"
 
