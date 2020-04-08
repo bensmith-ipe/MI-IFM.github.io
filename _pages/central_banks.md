@@ -54,7 +54,7 @@ author_profile: true
 | 4 | N/A  | 0.000*"claessens" + 0.000*"cryptography" + 0.000*"claim" + 0.000*"closely" + 0.000*"combination"
 | 5 | ![blue](/images/blue.png) Banking  | 0.021*"payment" + 0.015*"fintech" + 0.015*"credit" + 0.012*"lending" + 0.012*"fintechs" 
 | 6 |  ![red](/images/red.png) Tech  | 0.017*"fintech" + 0.014*"university" + 0.009*"image" + 0.009*"household" + 0.009*"economics" 
-| 7 |  ![green](/images/green.png) Policy  | 0.012*"france" + 0.012*"digital" + 0.012*"paris" + 0.011*"green" + 0.011*"uncertainty"
+| 7 |  ![red](/images/red.png) Tech  | 0.012*"france" + 0.012*"digital" + 0.012*"paris" + 0.011*"green" + 0.011*"uncertainty"
 | 8 |  ![blue](/images/blue.png) Banking  | 0.015*"intermediation" + 0.011*"france" + 0.010*"bigtechs" + 0.009*"financial_intermediation" + 0.009*"fintech" 
 | 9 | N/A   | 0.000*"payment" + 0.000*"fintechs" + 0.000*"credit" + 0.000*"customer" + 0.000*"fintech" 
 | 10 |   N/A  | 0.000*"economic" + 0.000*"intermediation" + 0.000*"euro" + 0.000*"rate" + 0.000*"monetary"
