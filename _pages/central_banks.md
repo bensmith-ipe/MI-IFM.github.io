@@ -136,3 +136,17 @@ author_profile: true
 | --------         | ------ | ------------------------------------------------------------ |
 | 1    | ![green](/images/green.png) Policy |  0.010*"percent" + 0.005*"canada" + 0.004*"export" + 0.004*"labor" + 0.004*"workforce" |
 | 2    | ![green](/images/green.png) Policy | 0.010*"captive" + 0.005*"interest_rate" + 0.005*"globalisation" + 0.004*"asia" + 0.004*"labour"   |
+
+
+### Q2 2017 
+
+![Q22017](/images/Screen Shot 2020-04-08 at 1.30.34 PM.png)
+| Topic Number            | Topic Theme   |   Top-5 Words                                                           |
+| --------         | ------ | ------------------------------------------------------------ |
+| 1    | ![red](/images/red.png) Tech|  0.016*"microfinance" + 0.008*"malaysia" + 0.008*"micro" + 0.006*"borrower" + 0.005*"opportunity"  |
+| 2    | ![green](/images/green.png) Policy | 0.020*"carbon" + 0.019*"climate" + 0.019*"canada" + 0.012*"climate_change" + 0.008*"green"  |
+| 3 | ![blue](/images/blue.png) Banking | 0.017*"customer" + 0.014*"canada" + 0.012*"mexico" + 0.008*"bcsbi" + 0.008*"code" |
+| 4 | ![blue](/images/blue.png) Banking| 0.013*"currency" + 0.011*"asian" + 0.006*"asian_bank" + 0.006*"region" + 0.006*"loan" |
+
+
+
